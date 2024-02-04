@@ -41,17 +41,23 @@ Ordered
 3. SDVAEERBA
 
 ## Code
+
 Inline 'code'
+
 Indented code
+
     //some comments
     line 1 of code
     line 2 of code
+    
 Block code "fences"
+
 '''
 Sample text here...
 '''
 
 Syntax highlighting
+
 ''' js
 var foo =function(bar) {
 return bar++;
@@ -75,6 +81,7 @@ Right aligned columns
 ## Links
 
 [link text](https://www.linkedin.com/in/ayush-rai-0244341ba/)
+
 [link with title](https://www.linkedin.com/in/ayush-rai-0244341ba/ "Title text")
 
 ## Images
