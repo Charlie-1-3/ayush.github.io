@@ -7,10 +7,15 @@
 -------
 
 ## Emphasis
+
 **This is bold**
+
 __This is bold__
+
 *This is italic*
+
 _This is italic_
+
 ~strikethhrough
 
 ## Blockquotes
