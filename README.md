@@ -16,7 +16,7 @@ __This is bold__
 
 _This is italic_
 
-~strikethhrough
+~strikethhrough~
 
 ## Blockquotes
 > Blockquotes can also be nested...
